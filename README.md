@@ -21,7 +21,7 @@ The custom timekeeping system comprises two main components: a 24-hour clock and
 ### Custom Calendar
 - **Day**: A day is referred to as a "dina." There are five days in a week:
   - dharma, bhima, arjuna, nakula, sahdeva.
-- **Week**: A week consists of five "dina"s.
+- **Week**: A week consists of five "dina"s. and is called as saptaha
 - **Month**: A month, referred to as a "maha," comprises three weeks.
 - **Year**: A year, referred to as a "karna," is made up of seven months.
   - The months are named: Atri, Bharadvaja, Gautama, Jamadagni, Kashyapa, Vashistha, Vishvamitra.
